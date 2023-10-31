@@ -875,3 +875,11 @@ header {
   border: none;
   fill: #f4f4fd;
 }
+
+.modal-check {
+  fill: transparent;
+}
+
+.modal-icon-check {
+  fill: transparent;
+}
